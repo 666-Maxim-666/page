@@ -55,5 +55,5 @@ document.addEventListener("DOMContentLoaded", (e) => {
       videoNod.currentTime = 0;
     });
   }
-  initAppPlayVideo("/media/video.mp4", ".button-play-video--js");
+  initAppPlayVideo("media/video.mp4", ".button-play-video--js");
 });
